@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+p {
+  background-color: lightcoral;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#num2 {
+  color: blue;
+  font-size: 36px;
+}
+
+.num5 {
+  color: lightgreen;
+}
